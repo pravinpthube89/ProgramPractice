@@ -27,5 +27,9 @@ namespace ProjProgramPractice
         {
             return a / b;
         }
+        public void Display()
+        {
+
+        }
     }
 }
