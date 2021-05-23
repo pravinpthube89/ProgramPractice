@@ -12,6 +12,7 @@ namespace ProjProgramPractice
         {
             Program objProgram = new Program();
             objProgram.Display("Addition", objProgram.Add(10, 20));
+            objProgram.Display("Subtraction", objProgram.sub(10, 20));
         }
         public int Add(int a, int b)
         {
