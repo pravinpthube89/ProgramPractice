@@ -1,0 +1,7 @@
+C:\Pravin Thube\Git Tutorial\Git Tuts\MyProgramPractice\ProjProgramPractice\bin\Debug\ProjProgramPractice.exe.config
+C:\Pravin Thube\Git Tutorial\Git Tuts\MyProgramPractice\ProjProgramPractice\bin\Debug\ProjProgramPractice.exe
+C:\Pravin Thube\Git Tutorial\Git Tuts\MyProgramPractice\ProjProgramPractice\bin\Debug\ProjProgramPractice.pdb
+C:\Pravin Thube\Git Tutorial\Git Tuts\MyProgramPractice\ProjProgramPractice\obj\Debug\ProjProgramPractice.csprojAssemblyReference.cache
+C:\Pravin Thube\Git Tutorial\Git Tuts\MyProgramPractice\ProjProgramPractice\obj\Debug\ProjProgramPractice.csproj.CoreCompileInputs.cache
+C:\Pravin Thube\Git Tutorial\Git Tuts\MyProgramPractice\ProjProgramPractice\obj\Debug\ProjProgramPractice.exe
+C:\Pravin Thube\Git Tutorial\Git Tuts\MyProgramPractice\ProjProgramPractice\obj\Debug\ProjProgramPractice.pdb
