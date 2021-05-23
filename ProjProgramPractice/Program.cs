@@ -10,6 +10,8 @@ namespace ProjProgramPractice
     {
         static void Main(string[] args)
         {
+            Program objProgram = new Program();
+            objProgram.Display("Addition", objProgram.Add(10, 20));
         }
         public int Add(int a, int b)
         {
@@ -27,9 +29,9 @@ namespace ProjProgramPractice
         {
             return a / b;
         }
-        public void Display()
+        public void Display(string calculation,double result)
         {
-
+            Console.WriteLine(calculation +" = "+ result);
         }
     }
 }
